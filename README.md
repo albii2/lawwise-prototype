@@ -2,7 +2,7 @@
 
 LawWise is an AI-powered legal assistant designed to help low-income and self-represented individuals navigate family and civil court systems — starting with child support and traffic court in Minnesota.
 
-Created by **Auqueith L. Bradshaw**, this project is grounded in lived experience and focused on equity, clarity, and empowerment.
+Created by **Auqueith Bradshaw**, this project is grounded in lived experience and focused on equity, clarity, and empowerment.
 
 ## Features (Planned)
 - Document upload + OCR
