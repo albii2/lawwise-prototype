@@ -1,18 +1,31 @@
 # LawWise™ Prototype
 
-LawWise is an AI-powered legal assistant designed to help low-income and self-represented individuals navigate family and civil court systems — starting with child support and traffic court in Minnesota.
+**LawWise™** is an AI-powered legal assistant for underserved individuals navigating child support, traffic court, and family civil legal issues — starting in Minnesota.
 
-Created by **Auqueith Bradshaw**, this project is grounded in lived experience and focused on equity, clarity, and empowerment.
+Built by [Auqueith Bradshaw](https://github.com/albii2), a father, coach, and civil rights advocate with lived experience in wrongful child support enforcement, LawWise aims to:
 
-## Features (Planned)
-- Document upload + OCR
-- AI-generated motion templates
-- Plain-language rights explainers
-- Timeline and hearing tracking
-- Feedback collection for systemic reform
+- Convert confusing court letters into plain English
+- Auto-generate legally sound motions and declarations
+- Explain your rights (14th Amendment, Title VI, Due Process)
+- Help you self-advocate when legal aid isn’t enough
 
 > “Justice in plain language.”
 
 ---
 
-**This is an early-stage public prototype. No legal advice is provided.**
+## 🔧 Features (MVP Scope)
+
+- [ ] Document upload + OCR
+- [ ] AI motion generator (e.g., Motion to Dismiss)
+- [ ] Plain-language explainers from uploaded docs
+- [ ] Timeline tracker + user reminders
+- [ ] Rights education dashboard
+- [ ] “Report a Barrier” feedback logger (for PAC/community reform)
+
+---
+
+## 📚 License
+
+See [`LICENSE.txt`](./LICENSE.txt). This is a non-commercial, community-protection project. You may not repurpose or resell LawWise outputs without permission.
+
+Contact: **lawwiseproject@protonmail.com**
