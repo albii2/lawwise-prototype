@@ -1,0 +1,13 @@
+Copyright (c) 2025 Auqueith Bradshaw
+
+This project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You may:
+- Share, remix, or build on this work for **non-commercial** use
+- Attribute “LawWise™ by Auqueith Bradshaw” visibly in any derivative work
+
+You may not:
+- Monetize, resell, or white-label this content without written permission
+- Use any part of this system for commercial gain without license
+
+For licensing or use inquiries: lawwiseproject@protonmail.com
