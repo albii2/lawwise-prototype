@@ -1,31 +1,36 @@
 # Solo
 
-**Solo** is an AI-powered legal assistant for underserved individuals navigating child support, traffic court, and family civil legal issues — starting in Minnesota.
+An AI-powered legal assistant designed to help underserved individuals navigate child support, traffic court, and family civil legal matters. Currently focused on Minnesota.
 
-Built by [ALBII2](https://github.com/albii2) (Auqueith Bradshaw), a father, coach, and civil rights advocate with lived experience in wrongful child support enforcement, Solo aims to:
+Built by [ALBII2](https://github.com/albii2).
 
-- Convert confusing court letters into plain English
-- Auto-generate legally sound motions and declarations
-- Explain your rights (14th Amendment, Title VI, Due Process)
-- Help you self-advocate when legal aid isn't enough
+## Overview
 
-> "Justice in plain language."
+Solo provides a structured approach to legal self-advocacy through:
 
----
+- **Document Processing**: Upload and OCR court documents for analysis
+- **Motion Generation**: Automatically generate motions and declarations with legal grounding
+- **Rights Education**: Clear explanations of relevant legal frameworks (14th Amendment, Title VI, Due Process)
+- **Case Management**: Timeline tracking and reminder system
+- **Feedback Integration**: Community-driven reporting to identify systemic barriers
 
-## 🔧 Features (MVP Scope)
+## Core Features (MVP)
 
-- [ ] Document upload + OCR
-- [ ] AI motion generator (e.g., Motion to Dismiss)
-- [ ] Plain-language explainers from uploaded docs
-- [ ] Timeline tracker + user reminders
+- [ ] Document upload with OCR processing
+- [ ] Motion generator for common motions (Motion to Dismiss, etc.)
+- [ ] Plain-language legal document analysis
+- [ ] Case timeline and notification system
 - [ ] Rights education dashboard
-- [ ] "Report a Barrier" feedback logger (for PAC/community reform)
+- [ ] Barrier reporting and logging system
 
----
+## Project Goals
 
-## 📚 License
+Solo addresses a critical gap: individuals navigating civil legal proceedings without adequate legal representation often lack access to clear information about their rights and options. This project applies AI to make legal processes more transparent and self-advocacy more feasible.
 
-See [`LICENSE.txt`](./LICENSE.txt). This is a non-commercial, community-protection project. You may not repurpose or resell Solo outputs without permission.
+## License
 
-Contact: **lawwiseproject@protonmail.com**
+See [`LICENSE.txt`](./LICENSE.txt). 
+
+This is a non-commercial project focused on community protection. Commercial use, redistribution, or resale of Solo-generated content is prohibited without explicit written permission.
+
+For inquiries: **lawwiseproject@protonmail.com**
